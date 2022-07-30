@@ -3,7 +3,7 @@ Script for disabling telemetry in windows10/11 home/pro. windows-language: germa
 
 German/English Privacy-Script (Windows 10/11 Home/Pro)
 * Reduce Telemetry via GPO/Registry on Microsoft Way
-  That include: Microsoft Office, Edge-Chromium, Google-Chrome, Mozilla-Firefox
+* That include: Microsoft Office, Edge-Chromium, Google-Chrome, Mozilla-Firefox
 * Disable Telemetry-Services on SiSyPHuS Way (BSI) 
 * Disable Telemetry-Services by Scheduled Tasks
 * Disable Telemetry-Services by Windows Firewall
