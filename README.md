@@ -1,4 +1,4 @@
-**Version v1.2.7  (08.08.2022)**
+**Version v1.2.7  (08.08.2022)** 
 
 ===============================
 
@@ -27,21 +27,24 @@
 
 **All Scripts written in Batch/Powershell.**
 
-===============================
-
 Scripts written/tested for german and english language.
 Other Windows languages will not support.
 
-All documentations in german language:
+===============================
+
+**Documentations in german language.**
+
 Installation-Guide.pdf for beginners.
-Detail documentations, changes, GPO-settings, howtos, and BSI documentations included in german language.
+Details documentations, changes, GPO-settings, howtos, and BSI documentations included.
 
 ===============================
+
+**DISCLAIMER:**
 
 THIS SCRIPT IS A HOBBY PROJECT.
 
 THIS SCRIPT IS LIKE IT IS: THERE IS NO GUARANTEE OF WORKING CORRECTLY.
 
-DOZEN CHANGES WILL BE MADE IN WINDOWS - SO ITS YOUR OWN RISC.
+DOZEN SYSTEM CHANGES WILL BE MADE IN WINDOWS - SO ITS YOUR OWN RISC.
 
-PLAY FIRST IN VIRTUAL MASHINES, BEFORE USE IN PRODUCTIVE ENVIRONMENT.
+ADVICE: PLAY FIRST IN VIRTUAL MASHINES, BEFORE USE IN PRODUCTIVE ENVIRONMENT.
