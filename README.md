@@ -27,14 +27,14 @@
 
 **All Scripts written in Batch/Powershell.**
 
-Scripts written/tested for german and english language.
+Scripts written/tested for german and english language.<br>
 Other Windows languages will not support.
 
 ===============================
 
 **Documentations in german language.**
 
-Installation-Guide.pdf for beginners.
+Installation-Guide.pdf for beginners.<br>
 Details documentations, changes, GPO-settings, howtos, and BSI documentations included.
 
 ===============================
