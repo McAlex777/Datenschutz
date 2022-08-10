@@ -21,7 +21,7 @@
 
 ========================================================
 
-**German Howto for Linux-Based Gateway with database logging.**
+**German Howto for Linux-Based Gateway with database logging for each internet connection.**
 
 ========================================================
 
