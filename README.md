@@ -1,4 +1,6 @@
-**Version v1.2.7**
+**Version v1.2.7  (08.08.2022)**
+
+===============================
 
 **German/English Privacy-Script (Windows 10/11 Home/Pro):**
 
