@@ -1,6 +1,6 @@
 **Version v1.2.7  (08.08.2022)** 
 
-===============================
+========================================================
 
 **German/English Privacy-Script (Windows 10/11 Home/Pro):**
 
@@ -10,7 +10,7 @@
 * Disable Telemetry-Services by Scheduled Tasks.
 * Disable Telemetry-Services by Windows Firewall.
 
-===============================
+========================================================
 
 **German/English Firewall-Script for Boot-Process (Windows 10/11 Home/Pro):**
 
@@ -19,25 +19,25 @@
 * Set dynamic Firewall rules to allow/disallow complete directorys/subdirectorys on every startup.
 * Activate scheduled task for each boot-process.
 
-===============================
+========================================================
 
 **German Howto for Linux-Based Gateway with database logging.**
 
-===============================
+========================================================
 
 **All Scripts written in Batch/Powershell.**
 
 Scripts written/tested for german and english language.<br>
 Other Windows languages will not support.
 
-===============================
+========================================================
 
 **Documentations in german language.**
 
 Installation-Guide.pdf for beginners.<br>
 Details documentations, changes, GPO-settings, howtos, and BSI documentations included.
 
-===============================
+========================================================
 
 **DISCLAIMER:**
 
