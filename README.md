@@ -36,6 +36,9 @@ Other Windows languages will not support.
 
 The project is primarily aimed at users who want their Windows10/11 to be a cloud-free, offline system with installed applications, as it was in Windows7 times.
 
+The Windows10/11 telemetry should be reduced as far as possible.<br> 
+Several methods are used for this: Policies, service disabling, and firewall blocking.
+
 The primary goal is a comprehensible, script-controlled conversion of the system with Microsoft board means - i.e. without external applications. A further goal is a sustainable conversion - via the standard procedures provided by Microsoft. Therefore, the primary focus is on policy configurations and the simple disabling of services.
 
 ========================================================
