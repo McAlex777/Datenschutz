@@ -41,6 +41,8 @@ Several methods are used for this: Policies, service disabling, and firewall blo
 
 The primary goal is a comprehensible, script-controlled conversion of the system with Microsoft board means - i.e. without external applications. A further goal is a sustainable conversion - via the standard procedures provided by Microsoft. Therefore, the primary focus is on policy configurations and the simple disabling of services.
 
+Care was taken not to restrict the user too much with the configurations.
+
 ========================================================
 
 **Documentations in german language.**
