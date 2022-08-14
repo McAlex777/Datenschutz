@@ -32,7 +32,7 @@ Other Windows languages will not support.
 
 ========================================================
 
-**Descriptions:**
+**Description:**
 
 The project is primarily aimed at users who want their Windows10/11 to be a cloud-free, offline system with installed applications, as it was in Windows7 times.
 
