@@ -9,6 +9,7 @@
 * Disable Telemetry-Services by Services.
 * Disable Telemetry-Services by Scheduled Tasks.
 * Disable Telemetry-Services by Windows Firewall.
+* Disable Cloud-Access such as OneDrive.
 
 ========================================================
 
