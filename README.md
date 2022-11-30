@@ -2,6 +2,12 @@
 
 ========================================================
 
+News:
+
+30.11.2022: No new Privacy-Policys for Edge-Chromium and Chrome v107, v108.
+
+========================================================
+
 **German/English Privacy-Script (Windows 10/11 Home/Pro):**
 
 * Reduce Telemetry via Policy (GPO/Registry) for Windows10/11 (Home/Pro), Microsoft-Office, Edge-Chromium, Chrome, Firefox.
