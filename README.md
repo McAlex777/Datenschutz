@@ -2,7 +2,7 @@
 
 ========================================================
 
-News:
+**News:**
 
 30.11.2022: No new Privacy-Policys for Edge-Chromium and Chrome v107, v108.
 
