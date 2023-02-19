@@ -2,10 +2,6 @@
 
 ========================================================
 
-**News and announcements:**
-
-========================================================
-
 **German/English Privacy-Script (Windows 10/11 Home/Pro):**
 
 * Reduce Telemetry via Policy (GPO/Registry) for Windows10/11 (Home/Pro), Microsoft-Office, Edge-Chromium, Chrome, Firefox.
