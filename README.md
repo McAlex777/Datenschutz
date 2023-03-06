@@ -1,4 +1,4 @@
-**Version v1.3.3  (19.02.2023)** 
+**Version v1.3.4  (06.03.2023)** 
 
 ========================================================
 
@@ -26,7 +26,7 @@
 
 ========================================================
 
-**All Scripts written in Batch/Powershell.**
+**All Scripts written in Batch / Powershell.**
 
 Scripts written/tested for german and english language.<br>
 Other Windows languages will not support.
