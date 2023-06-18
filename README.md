@@ -1,4 +1,4 @@
-**Version v1.3.5  (07.03.2023)** 
+**Version v1.4.0 (18.06.2023)** 
 
 ========================================================
 
@@ -22,7 +22,7 @@
 
 ========================================================
 
-**German Howto for Linux-Based Gateway with database logging for internet connections.**
+**German/English Howto for Linux-Based Gateway with database logging for internet connections.**
 
 ========================================================
 
@@ -46,16 +46,18 @@ Care was taken not to restrict the user too much with the configurations.
 
 ========================================================
 
-**Documentations in german language.**
+**Documentations in german/english language.**
 
-Installation-Guide.pdf for beginners.<br>
-Details documentations, changes, GPO-settings, howtos, and BSI documentations included.
+Installation-Guide__DE/EN.pdf for beginners.<br>
+Detail documentations, changes, GPO-settings, howtos, and BSI documentations included.
 
 ========================================================
 
 **DISCLAIMER:**
 
 THIS SCRIPT IS A HOBBY PROJECT.
+
+ALL SCRIPT CODE (*.bat, *.ps1, *.php, *.sql, *.txt) IS LICENSED TO GPL v2.0.
 
 THIS PROJECT IS LIKE IT IS: THERE IS NO GUARANTEE OF WORKING CORRECTLY.
 
