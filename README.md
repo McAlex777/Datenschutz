@@ -1,4 +1,4 @@
-**Version v1.4.0 (18.06.2023)** 
+**Version v1.4.1 (2023-10-01)** 
 
 ========================================================
 
@@ -9,6 +9,7 @@
 * Disable Telemetry-Services by Services.
 * Disable Telemetry-Services by Scheduled Tasks.
 * Disable Telemetry-Services by Windows Firewall.
+* Disable Windows CoPilot.
 * Disable Cloud-Access such as OneDrive.
 
 ========================================================
